@@ -1,2 +1,2 @@
-# NCTS
-N(SIS)ot Common Test Framework (NCTF) is a small test framework used to create unit tests for NSIS.
+# ANTS
+ANTS - A N(SIS) Test Framework is a test framework used to create unit tests for NSIS.
